@@ -1,7 +1,7 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 - Стек используемых технологий:  javascript, html, css, git.
-- Ссылка на GitHub Pages website: https://ZhannaZhukova.github.io/.
+- Ссылка на GitHub Pages website:https://zhannazhukova.github.io/js-cp-diploma-edited/.
 
 ## Создание «информационной системы для предварительного бронирования билетов».
 
